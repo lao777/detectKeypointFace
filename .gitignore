@@ -1,2 +1,10 @@
 text/dipBich.docx
 text/dipCib.docx
+program/data/
+program/dataHelen/
+program/dataHelenScale/
+program/dataTrain/
+program/I/
+program/img/
+program/net1.pickle
+program/net6.pickle
